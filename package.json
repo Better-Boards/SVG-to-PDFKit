@@ -1,6 +1,6 @@
 {
   "name": "@betterboards/svg-to-pdfkit",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Insert SVG into a PDF document created with PDFKit - Fork by mewtlu",
   "author": "alafr",
   "license": "MIT",
