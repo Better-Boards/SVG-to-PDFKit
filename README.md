@@ -1,5 +1,8 @@
-# SVG-to-PDFKit
+# @betterboards/SVG-to-PDFKit
 Insert SVG into a PDF document created with PDFKit.
+
+This fork is maintained by [Better Boards](https://github.com/Better-Boards) due to lack of maintenance on the original package with alterations made to meet internal requirements. Current changes include:
+- The fontCallback method is now passed the string value of the font-weight attribute rather than a boolean comparing it to 'bold'.
 
 ## Install
 
