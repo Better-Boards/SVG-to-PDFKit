@@ -9,5 +9,8 @@
   "main": "source.js",
   "devDependencies": {
     "pdfkit": ">=0.8.1"
+  },
+  "scripts": {
+    "publish": "npm publish --access public"
   }
 }
